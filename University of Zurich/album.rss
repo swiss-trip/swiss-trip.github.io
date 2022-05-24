@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>University of Zurich</title>
+   	<link>..</link>
+        <generator>jAlbum 28.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://swiss-trip.cc/University%20of%20Zurich/</jalbum:absolutePath>
+        <item>
+            <title>DSC01770</title>
+            <link>https://swiss-trip.cc/University%20of%20Zurich/slides/DSC01770.JPG</link>
+            <pubDate>Tue, 24 May 2022 22:45:25 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://swiss-trip.cc/University%20of%20Zurich/thumbs/DSC01770.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://swiss-trip.cc/University%20of%20Zurich/slides/DSC01770.JPG" width="2000" height="1500"/>
+            <jalbum:exif originalDate="Tue, 17 May 2022 21:05:03 +0300" cameraMake="SONY" cameraModel="DSC-HX99"/>
+            <guid isPermaLink="false">slides/DSC01770.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01771</title>
+            <link>https://swiss-trip.cc/University%20of%20Zurich/slides/DSC01771.JPG</link>
+            <pubDate>Tue, 24 May 2022 22:45:25 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://swiss-trip.cc/University%20of%20Zurich/thumbs/DSC01771.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://swiss-trip.cc/University%20of%20Zurich/slides/DSC01771.JPG" width="2000" height="1500"/>
+            <jalbum:exif originalDate="Tue, 17 May 2022 21:05:12 +0300" cameraMake="SONY" cameraModel="DSC-HX99"/>
+            <guid isPermaLink="false">slides/DSC01771.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01780</title>
+            <link>https://swiss-trip.cc/University%20of%20Zurich/slides/DSC01780.JPG</link>
+            <pubDate>Tue, 24 May 2022 22:45:25 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://swiss-trip.cc/University%20of%20Zurich/thumbs/DSC01780.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://swiss-trip.cc/University%20of%20Zurich/slides/DSC01780.JPG" width="1500" height="2000"/>
+            <jalbum:exif originalDate="Tue, 17 May 2022 21:09:57 +0300" cameraMake="SONY" cameraModel="DSC-HX99"/>
+            <guid isPermaLink="false">slides/DSC01780.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02071</title>
+            <link>https://swiss-trip.cc/University%20of%20Zurich/slides/DSC02071.JPG</link>
+            <pubDate>Tue, 24 May 2022 22:45:25 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://swiss-trip.cc/University%20of%20Zurich/thumbs/DSC02071.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://swiss-trip.cc/University%20of%20Zurich/slides/DSC02071.JPG" width="1500" height="2000"/>
+            <jalbum:exif originalDate="Thu, 19 May 2022 10:39:07 +0300" cameraMake="SONY" cameraModel="DSC-HX99"/>
+            <guid isPermaLink="false">slides/DSC02071.JPG</guid>
+        </item>
+    </channel>
+</rss>

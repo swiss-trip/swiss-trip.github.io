@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Harderbahn</title>
+   	<link>..</link>
+        <generator>jAlbum 28.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://swiss-trip.cc/Harderbahn/</jalbum:absolutePath>
+        <item>
+            <title>DSC01864</title>
+            <link>https://swiss-trip.cc/Harderbahn/slides/DSC01864.JPG</link>
+            <pubDate>Tue, 24 May 2022 22:45:25 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://swiss-trip.cc/Harderbahn/thumbs/DSC01864.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://swiss-trip.cc/Harderbahn/slides/DSC01864.JPG" width="2000" height="1500"/>
+            <jalbum:exif originalDate="Wed, 18 May 2022 14:16:18 +0300" cameraMake="SONY" cameraModel="DSC-HX99"/>
+            <guid isPermaLink="false">slides/DSC01864.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01865</title>
+            <link>https://swiss-trip.cc/Harderbahn/slides/DSC01865.JPG</link>
+            <pubDate>Tue, 24 May 2022 22:45:25 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://swiss-trip.cc/Harderbahn/thumbs/DSC01865.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://swiss-trip.cc/Harderbahn/slides/DSC01865.JPG" width="2000" height="1500"/>
+            <jalbum:exif originalDate="Wed, 18 May 2022 14:16:19 +0300" cameraMake="SONY" cameraModel="DSC-HX99"/>
+            <guid isPermaLink="false">slides/DSC01865.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01866</title>
+            <link>https://swiss-trip.cc/Harderbahn/slides/DSC01866.JPG</link>
+            <pubDate>Tue, 24 May 2022 22:45:25 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://swiss-trip.cc/Harderbahn/thumbs/DSC01866.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://swiss-trip.cc/Harderbahn/slides/DSC01866.JPG" width="1500" height="2000"/>
+            <jalbum:exif originalDate="Wed, 18 May 2022 14:16:47 +0300" cameraMake="SONY" cameraModel="DSC-HX99"/>
+            <guid isPermaLink="false">slides/DSC01866.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01867</title>
+            <link>https://swiss-trip.cc/Harderbahn/slides/DSC01867.JPG</link>
+            <pubDate>Tue, 24 May 2022 22:45:25 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://swiss-trip.cc/Harderbahn/thumbs/DSC01867.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://swiss-trip.cc/Harderbahn/slides/DSC01867.JPG" width="1500" height="2000"/>
+            <jalbum:exif originalDate="Wed, 18 May 2022 14:16:58 +0300" cameraMake="SONY" cameraModel="DSC-HX99"/>
+            <guid isPermaLink="false">slides/DSC01867.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01868</title>
+            <link>https://swiss-trip.cc/Harderbahn/slides/DSC01868.JPG</link>
+            <pubDate>Tue, 24 May 2022 22:45:25 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://swiss-trip.cc/Harderbahn/thumbs/DSC01868.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://swiss-trip.cc/Harderbahn/slides/DSC01868.JPG" width="2000" height="1500"/>
+            <jalbum:exif originalDate="Wed, 18 May 2022 14:17:12 +0300" cameraMake="SONY" cameraModel="DSC-HX99"/>
+            <guid isPermaLink="false">slides/DSC01868.JPG</guid>
+        </item>
+    </channel>
+</rss>

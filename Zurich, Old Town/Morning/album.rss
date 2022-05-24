@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Morning</title>
+   	<link>../..</link>
+        <generator>jAlbum 28.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://swiss-trip.cc/Zurich%2C%20Old%20Town/Morning/</jalbum:absolutePath>
+        <item>
+            <title>DSC02059</title>
+            <link>https://swiss-trip.cc/Zurich%2C%20Old%20Town/Morning/slides/DSC02059.JPG</link>
+            <pubDate>Tue, 24 May 2022 22:45:25 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://swiss-trip.cc/Zurich%2C%20Old%20Town/Morning/thumbs/DSC02059.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://swiss-trip.cc/Zurich%2C%20Old%20Town/Morning/slides/DSC02059.JPG" width="2000" height="1500"/>
+            <jalbum:exif originalDate="Thu, 19 May 2022 10:30:49 +0300" cameraMake="SONY" cameraModel="DSC-HX99"/>
+            <guid isPermaLink="false">slides/DSC02059.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02060</title>
+            <link>https://swiss-trip.cc/Zurich%2C%20Old%20Town/Morning/slides/DSC02060.JPG</link>
+            <pubDate>Tue, 24 May 2022 22:45:25 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://swiss-trip.cc/Zurich%2C%20Old%20Town/Morning/thumbs/DSC02060.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://swiss-trip.cc/Zurich%2C%20Old%20Town/Morning/slides/DSC02060.JPG" width="2000" height="1500"/>
+            <jalbum:exif originalDate="Thu, 19 May 2022 10:31:04 +0300" cameraMake="SONY" cameraModel="DSC-HX99"/>
+            <guid isPermaLink="false">slides/DSC02060.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02061</title>
+            <link>https://swiss-trip.cc/Zurich%2C%20Old%20Town/Morning/slides/DSC02061.JPG</link>
+            <pubDate>Tue, 24 May 2022 22:45:25 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://swiss-trip.cc/Zurich%2C%20Old%20Town/Morning/thumbs/DSC02061.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://swiss-trip.cc/Zurich%2C%20Old%20Town/Morning/slides/DSC02061.JPG" width="2000" height="1500"/>
+            <jalbum:exif originalDate="Thu, 19 May 2022 10:31:36 +0300" cameraMake="SONY" cameraModel="DSC-HX99"/>
+            <guid isPermaLink="false">slides/DSC02061.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02062</title>
+            <link>https://swiss-trip.cc/Zurich%2C%20Old%20Town/Morning/slides/DSC02062.JPG</link>
+            <pubDate>Tue, 24 May 2022 22:45:25 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://swiss-trip.cc/Zurich%2C%20Old%20Town/Morning/thumbs/DSC02062.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://swiss-trip.cc/Zurich%2C%20Old%20Town/Morning/slides/DSC02062.JPG" width="2000" height="1500"/>
+            <jalbum:exif originalDate="Thu, 19 May 2022 10:31:38 +0300" cameraMake="SONY" cameraModel="DSC-HX99"/>
+            <guid isPermaLink="false">slides/DSC02062.JPG</guid>
+        </item>
+    </channel>
+</rss>

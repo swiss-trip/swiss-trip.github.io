@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Casino Interlaken</title>
+   	<link>..</link>
+        <generator>jAlbum 28.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://swiss-trip.cc/Casino%20Interlaken/</jalbum:absolutePath>
+        <item>
+            <title>DSC01927</title>
+            <link>https://swiss-trip.cc/Casino%20Interlaken/slides/DSC01927.JPG</link>
+            <pubDate>Tue, 24 May 2022 22:45:24 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://swiss-trip.cc/Casino%20Interlaken/thumbs/DSC01927.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://swiss-trip.cc/Casino%20Interlaken/slides/DSC01927.JPG" width="2000" height="1500"/>
+            <jalbum:exif originalDate="Wed, 18 May 2022 15:07:41 +0300" cameraMake="SONY" cameraModel="DSC-HX99"/>
+            <guid isPermaLink="false">slides/DSC01927.JPG</guid>
+        </item>
+        <item>
+            <title>DSC01928</title>
+            <link>https://swiss-trip.cc/Casino%20Interlaken/slides/DSC01928.JPG</link>
+            <pubDate>Tue, 24 May 2022 22:45:24 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://swiss-trip.cc/Casino%20Interlaken/thumbs/DSC01928.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://swiss-trip.cc/Casino%20Interlaken/slides/DSC01928.JPG" width="2000" height="1500"/>
+            <jalbum:exif originalDate="Wed, 18 May 2022 15:08:28 +0300" cameraMake="SONY" cameraModel="DSC-HX99"/>
+            <guid isPermaLink="false">slides/DSC01928.JPG</guid>
+        </item>
+    </channel>
+</rss>
